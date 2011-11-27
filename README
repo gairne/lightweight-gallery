@@ -1,0 +1,6 @@
+Lightweight Gallery
+
+Copyright 2011  Matthew Mole <code@gairne.co.uk>
+
+Lightweight Gallery is a small image gallery written in PHP and javascript. It is designed to have few features, with the goal of serving pages fast.
+
